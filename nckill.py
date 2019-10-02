@@ -14,7 +14,7 @@ def syntax():
     print("Usage: " + os.path.split(sys.argv[0])[1] + " <ip address> <port> [options]")
     print("Options:")
     print("         -s      Disable logging (only summary)")
-    print("         -c      Reduce CPU power consumption ")
+    print("         -c      Reduce CPU usage")
     exit()
 
 def main(target_ip, target_port):
