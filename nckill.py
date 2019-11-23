@@ -1,9 +1,7 @@
-'''
-Programmed by hXR16F
-hXR16F.ar@gmail.com
+# Programmed by hXR16F
+# hXR16F.ar@gmail.com
 
-nckill - Network Card KILLer (DoSer/Stresser)
-'''
+# nckill - Network Card KILLer (DoSer/Stresser)
 
 import socket
 import random
